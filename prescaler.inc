@@ -1,0 +1,2 @@
+.equ TIM2DIV = 0b011
+.equ TIM2COMPVAL = 250
